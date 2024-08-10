@@ -1,0 +1,52 @@
+.table{
+  margin-top: 32px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+.title{
+  background-color: #303030;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: white;
+  text-align: center;
+}
+
+.tab{
+  border: 2px solid black;
+  margin: 0;
+  border-collapse: collapse;
+}
+
+.titleCol{
+  border: 2px solid black;
+  width: 200px;
+  margin: 0;
+  border-collapse: collapse;
+}
+
+.rad{
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    color: black;
+    text-align: center;
+}
+
+.com{
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+.white{
+  background-color: white;
+}
+
+.grey{
+  background-color: gray;
+}

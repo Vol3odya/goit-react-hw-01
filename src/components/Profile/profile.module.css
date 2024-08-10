@@ -1,0 +1,74 @@
+.border{
+  border: 3px solid black;
+  border-radius: 12px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding: 0;
+  width: 600px;
+}
+
+.img{
+  width: 50%;
+  border-radius: 50%;
+  background-color: slategray;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  display: block;
+}
+
+.main{
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.text {
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: grey;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.list{
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  background-color: gainsboro;
+  margin: 0;
+  padding: 0;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.listLi{
+  padding: auto;
+  display: inline;
+  width: 33%;
+  border-top: 2px solid grey;
+}
+
+.listLiCenter{
+  border-left: 2px solid grey;
+  border-right: 2px solid grey;
+}
+
+.listText{
+  display:block;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: black;
+  text-align: center;
+}
